@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+}
+
+main {
+  background-color: #fff9ae;
+}
+
+.big {
+  font-family: 'Niconne', cursive;
+}
+
+.small {
+  font-family: 'Roboto', sans-serif;
+}
