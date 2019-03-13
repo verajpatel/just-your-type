@@ -1,18 +1,13 @@
-body {
-  margin: 0;
-}
-
 html {
-  /* background: linear-gradient(#682f79, #ffffff); */
-  background-color: #92278f;
+    background-color: #92278f;
 }
 
 .big {
   font-family: 'Niconne', cursive;
+  color: #ffffff;
 }
 
 .small {
   font-family: 'Roboto', sans-serif;
-  font-weight: 100;
   color: #fffbcc;
 }
