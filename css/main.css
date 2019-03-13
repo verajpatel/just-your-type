@@ -2,8 +2,9 @@ body {
   margin: 0;
 }
 
-main {
-  background-color: #fff9ae;
+html {
+  /* background: linear-gradient(#682f79, #ffffff); */
+  background-color: #92278f;
 }
 
 .big {
@@ -13,4 +14,5 @@ main {
 .small {
   font-family: 'Roboto', sans-serif;
   font-weight: 100;
+  color: #fffbcc;
 }
